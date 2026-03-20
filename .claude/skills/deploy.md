@@ -1,3 +1,8 @@
+---
+name: deploy
+description: Use when shipping a release of Agent Sessions — bumping version, updating CHANGELOG, building, signing, notarizing, publishing appcast, and creating a GitHub release.
+---
+
 # Deployment Skill (Agent Sessions)
 
 This skill is an agent-facing entrypoint that avoids duplicating the deployment runbook.
